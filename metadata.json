@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Registro de Pedidos Judiciales WhatsApp",
+  "description": "Generador estructurado y gestor de pedidos procesales para grupos de WhatsApp con selección rápida de trámite, juzgado, especialista y copia directa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
